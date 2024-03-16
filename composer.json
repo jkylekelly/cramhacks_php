@@ -1,0 +1,17 @@
+{
+    "name": "cramhacks/cramhacks",
+    "description": "experiment",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cramhacks\\Cramhacks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jkylekelly",
+            "email": "kyle@cramhacks.com"
+        }
+    ],
+    "require": {}
+}
